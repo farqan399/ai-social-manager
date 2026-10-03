@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///E:/website/ai-social-manager/app/page.tsx"],"sourcesContent":["export default function Home(){return <main><h1>AI Social Manager</h1><p>One Command. Complete Social Media Automation.</p></main>}\n"],"names":["Home"],"mappings":";;;;;;AAAe,SAASA;IAAO,qBAAO,8OAAC;;0BAAK,8OAAC;0BAAG;;;;;;0BAAsB,8OAAC;0BAAE;;;;;;;;;;;;AAAyD"}}]
+}
